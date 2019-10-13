@@ -4,7 +4,21 @@
   link: https://www2.deloitte.com/us/en.html
   job_title: Solution Specialist
   dates: December 2018 - Present
-  quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Working as solution specialist in full stack development role mainly in modern front-end libraries such as <mark>Vue.js</mark>, React.js along with microservices in Spring Boot and <mark>Node.js</mark>
+    - Providing high end secure services to multiple clients in public sectors.
+    - Developing common libraries to reuse in different product.
+    - Develop application using <mark>Vue.js</mark>, <mark>Vuex</mark>, <mark>Buefy</mark>, <mark>Bulma</mark>.
+    - Used Spring Web MVC framework for the applying MVC Implementation to the web application.
+
+- layout: top-right
+  company: Deloitte Consulting LLP
+  link: https://www2.deloitte.com/us/en.html
+  job_title: Solution Specialist
+  dates: December 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Working as solution specialist in full stack development role mainly in modern front-end libraries such as <mark>Vue.js</mark>, React.js along with microservices in Spring Boot and <mark>Node.js</mark>
+    - Providing high end secure services to multiple clients in public sectors.
+    - Developing common libraries to reuse in different product.
+    - Develop application using <mark>Vue.js</mark>, <mark>Vuex</mark>, <mark>Buefy</mark>, <mark>Bulma</mark>.
+    - Used Spring Web MVC framework for the applying MVC Implementation to the web application.
