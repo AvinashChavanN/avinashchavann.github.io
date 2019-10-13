@@ -2,12 +2,27 @@
 - layout: left
   name: University of Texas at Arlington
   dates: 2016-2018
-  qualification: Master's of Science in Computer Science and Engineering
+  qualification: Masters of Science in Computer Science and Engineering
   quote: >
   description: | # this will include new lines to allow paragraphs
     <mark>Graduate Coursework</mark>
-    - Cloud Computing; 
+    - Cloud Computing
     - Web Data Management 
     - Software Engineering
     - Database Systems
-    - Comparison of Learning Algorithms;
+    - Comparison of Learning Algorithms
+
+    # Education Template
+- layout: left
+  name: University of Mumbai
+  dates: 2008-2012
+  qualification: Bachelor of Engineering in Computer Science
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    <mark>Graduate Coursework</mark>
+    - Cloud Computing 
+    - Web Data Management 
+    - Software Engineering
+    - Database Systems
+    - Comparison of Learning Algorithms
+
