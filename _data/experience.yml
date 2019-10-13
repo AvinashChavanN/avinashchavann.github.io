@@ -29,10 +29,13 @@
   job_title: Web Application Developer Intern
   dates: May 2017 - May 2018
   description: | # this will include new lines to allow paragraphs
-    - Responsible for Full Stack development of project modules using C#, JavaScript, jQuery, AJAX and ASP NET MVC architecture, Razor view Engine, C#, Entity Framework, and LINQ Framework.
-    - Worked with HTML5, CSS3, JSON, JavaScript, ReactJs and ES6 for developing user interface.
-    - Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
-    - Created RESTful services for Each Endpoint and Mapped to Lambda function.
+    -	Responsible for Full Stack development of project modules using C#, JavaScript, jQuery, AJAX and ASP NET MVC architecture, Razor view Engine, C#, Entity Framework, and LINQ Framework.
+    -	Implemented code module to handle hypothetical contracts for turbine management company.  Created multiple use functional module with jQuery element by incorporating the MVC structure of ASP.Net MVC.
+    -	Redesigned CRUD system and implemented Universal search through SQL Server Reporting Service. 
+    -	Hands on Experience in working with AWS Lambda Functions, API Gate Way, S3 instance, Simple Queue Service using AWS .NET SDK. 
+    -	Created RESTful services for Each Endpoint and Mapped to Lambda function for making Process Logic for Backend.
+    -	Used C# Programming Language to Develop Lambda Function and Mapped with API Gateway Dispatcher to perform REST Operations.
+    -	Developed Client Application Using Angular 4 using ASP.NET MVC C#.
 
 - layout: left
   company: Infosys Limited
@@ -52,3 +55,5 @@
   description: | # this will include new lines to allow paragraphs
     - Responsible for maintenance of applications with technologies such as .NET C#/SQL Server / Oracle/ jQuery/ HTML5/ JavaScript/ Bootstrap
     - Developed code fixes and enhancements for inclusion in future code releases and patches. Used No-SQL Query Language to Perform Queries on Various tables and Developed Triggers and Index.
+    -	Strong Experience in Working with RESTful services using .Net Technologies Web API.
+    -	Web developer responsible for end-to-end web app development and creative cloud engineering. Cooperating with the back-end developer in the process of building the RESTful API.
