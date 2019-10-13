@@ -26,11 +26,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  -	<mark>Front-End:</mark> HTML5, CSS3, JavaScript, TypeScript, Angular, React, Redux, Flux, NodeJS, jQuery, AJAX
-  -	<mark>Back-End:</mark> PHP MVC(CodeIgniter), ASP.NET C#, MVC, RESTful API, Web API, Authenticate.Net 
-  -	<mark>Build Deploy and Version Control Tools:</mark> Git, Maven, Jenkins, Ant, IntelliJ, Sourcetree
-  -	<mark>Programming Skills:</mark> Java, C#, PHP
-  -	<mark>SQL Database:</mark> Oracle, MySQL, Postgres SQL, expert in stored procedures, cursors, triggers 
+  -	<mark>Front-End:</mark> HTML5, CSS3, JavaScript, TypeScript, Angular, React, Redux, Flux, NodeJS, jQuery, AJAX, SASS, SCSS, LESS
+  -	<mark>Back-End:</mark> ASP.NET C#, MVC, RESTful API, Authenticate.Net 
+  -	<mark>Build Deploy and Version Control Tools:</mark> Git, Jenkins, Sourcetree
+  -	<mark>Programming Skills:</mark> Java, C#
+  -	<mark>SQL Database:</mark> Oracle, MySQL, Postgres SQL 
   -	<mark>NoSQL:</mark> mongoDB, Neo4j
   -	<mark>Cloud Platforms:</mark> AWS, GCP
 # Projects Section
