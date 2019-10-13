@@ -12,7 +12,6 @@
     - Database Systems
     - Comparison of Learning Algorithms
 
-    # Education Template
 - layout: left
   name: University of Mumbai
   dates: 2008-2012
@@ -20,9 +19,8 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     <mark>Graduate Coursework</mark>
-    - Cloud Computing 
-    - Web Data Management 
-    - Software Engineering
-    - Database Systems
-    - Comparison of Learning Algorithms
+      - Computer Programming (JAVA/C#)
+      - Web Engineering (JavaScript/HTML/CSS)
+      - Software Testing 
+      
 
