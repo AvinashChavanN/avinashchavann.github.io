@@ -1,9 +1,9 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Deloitte Consulting LLP
+  link: https://www2.deloitte.com/us/en.html
+  job_title: Solution Specialist
+  dates: December 2018 - Present
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
