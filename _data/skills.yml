@@ -1,0 +1,21 @@
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 60%
+
+      - name: Caffe
+        level: 80%
+
+      - name: Matlab
+        level: 90%
+
+      - name: C/C++
+        level: 75%
