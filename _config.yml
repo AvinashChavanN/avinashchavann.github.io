@@ -4,7 +4,7 @@ repository: AvinashChavanN/avinashchavann.github.io
 
 # Personal info
 name: Avinash Chavan
-title: Modern Front End Developer
+title: Javascript Enthusiast
 email: chvn.avi@gmail.com
 phone: +1 (682) 347 6514
 website: https://github.com/avinashchavann
@@ -21,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Full stack development of web applications and creative cloud engineer.
 
-  And yes I love to explore new libraries in <mark>JavaScript</mark>.
+  Yes, I love to explore new <mark>JavaScript</mark> libraries.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
