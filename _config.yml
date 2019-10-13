@@ -21,15 +21,31 @@ about_content: | # this will include new lines to allow paragraphs
 
   Full stack development of web applications and creative cloud engineer.
 
-  And yes I love to explore new libraries in JavaScript.
+  And yes I love to explore new libraries in <mark>JavaScript</mark>.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+skills:
+    title: Skills &amp; Proficiency
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 60%
+
+      - name: Caffe
+        level: 80%
+
+      - name: Matlab
+        level: 90%
+
+      - name: C/C++
+        level: 75%
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
