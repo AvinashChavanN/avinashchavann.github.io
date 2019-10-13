@@ -1,9 +1,14 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Texas at Arlington
+  dates: 2016-2018
+  qualification: Master's of Science in Computer Science and Engineering
   quote: >
-    Short institution or course description (optional)
+    Graduate Coursework
+    -Cloud Computing; 
+    -Web Data Management 
+    -Software Engineering
+    -Database Systems
+    -Comparison of Learning Algorithms;
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Arlington, Texas
