@@ -1,10 +1,10 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: AvinashChavanN/avinashchavann.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Avinash Chavan
-title: Modern Front End Enthu
+title: Modern Front End Developer
 email: chvn.avi@gmail.com
 phone: +1 (682) 347 6514
 website: https://github.com/AvinashChavanN/avinashchavann.github.io
