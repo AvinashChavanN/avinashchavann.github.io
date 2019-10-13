@@ -17,36 +17,16 @@ linkedin_username: avinash-chavan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+Software engineering professional with more than 6 years of experience in object-oriented approaches to real-time software development that encompasses analysis, design, development, unit testing, integration testing, deployment and support. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+Full stack development of web applications and creative cloud engineer.
+
+And yes I love to explore new libraries in JavaScript.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   
-  toolset:
-      - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
-        level: 90%
-
-      - name: C/C++
-        level: 75%
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
