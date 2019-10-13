@@ -4,11 +4,10 @@
   dates: 2016-2018
   qualification: Master's of Science in Computer Science and Engineering
   quote: >
-    Graduate Coursework
-    -Cloud Computing; 
-    -Web Data Management 
-    -Software Engineering
-    -Database Systems
-    -Comparison of Learning Algorithms;
   description: | # this will include new lines to allow paragraphs
-    Arlington, Texas
+    <mark>Graduate Coursework</mark>
+    - Cloud Computing; 
+    - Web Data Management 
+    - Software Engineering
+    - Database Systems
+    - Comparison of Learning Algorithms;
