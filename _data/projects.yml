@@ -1,9 +1,7 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Create Your Burger 
+  link: https://github.com/AvinashChavanN/create-your-own-burger-react
+  github: AvinashChavanN/create-your-own-burger-react
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Yes this is basic project but fun is you want to try little React functionality by your own
