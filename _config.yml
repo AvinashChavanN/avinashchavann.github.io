@@ -17,11 +17,11 @@ linkedin_username: avinash-chavan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-Software engineering professional with more than 6 years of experience in object-oriented approaches to real-time software development that encompasses analysis, design, development, unit testing, integration testing, deployment and support. 
+  Software engineering professional with more than 6 years of experience in object-oriented approaches to real-time software development that encompasses analysis, design, development, unit testing, integration testing, deployment and support. 
 
-Full stack development of web applications and creative cloud engineer.
+  Full stack development of web applications and creative cloud engineer.
 
-And yes I love to explore new libraries in JavaScript.
+  And yes I love to explore new libraries in JavaScript.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
