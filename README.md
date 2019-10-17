@@ -7,4 +7,4 @@
 
 Change all the details from one place: ``_data/data.yml``
 
-[Demo](https://avinashchavann.github.io/)
+[Demo](https://avinashchavan.github.io/)
