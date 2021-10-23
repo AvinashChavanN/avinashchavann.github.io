@@ -1,9 +1,24 @@
 # Experience template
 - layout: left
+  company: Mindtree Limited
+  link: https://www.mindtree.com/
+  job_title: Technical Lead
+  dates: March 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Managing the end-to-end project implementation and rollout, including third party integration & on ground testing.
+    - Requirements understanding and analysis by interacting with the Third-party provider agencies, Creative Agencies associated with the Brand’s Digital Consumer Experience organizations.
+    - Coordination & Collaboration for all digital assets procurement from Creative Agencies based in U.S & globally.
+    - Managing ongoing operations after Hyper Care (Period of 2 weeks from launch) for all brand websites in Modern Web Program. 
+    - Use Modern Web Framework comprising of ReactJS, NextJS etc., to create User Interface Components which will be assembled to create Web Page Templates.
+    - Write Backend REST API/Web Services using TypeScript & NodeJS for Modern Web websites, because Server-side logic can be onlywritten through these APIs which will be called by Modern Web Developers.
+    - Use SaaS Pre-Processor & Tailwind Utility CSS Framework for styling User Interface Components & Web Page Templates.
+    - Perform Code & functional Defect Triage, Root Cause Analysis (RCA), fix the code. Aim is to provide critical operation support at EST hours for existing & running Websites
+
+- layout: left
   company: Deloitte Consulting LLP
   link: https://www2.deloitte.com/us/en.html
   job_title: Solution Specialist
-  dates: December 2018 - Present
+  dates: December 2018 - March 2020
   description: | # this will include new lines to allow paragraphs
     - Working as solution specialist in full stack development role mainly in modern front-end libraries such as <mark>Vue.js</mark>, React.js along with microservices in Spring Boot and <mark>Node.js</mark>
     - Providing high end secure services to multiple clients in public sectors.
