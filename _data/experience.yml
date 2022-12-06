@@ -1,5 +1,18 @@
 # Experience template
 - layout: left
+  company: Compugain LLC | CapitalOne
+  link: https://compugain.com/
+  job_title: Technical Lead
+  dates: April 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Worked on and Lead a team to successful delivery of Cure Portal which automates process of Enrichment in Capital One.
+    - Working on modern web technologies like but not limited to React.js, Next.js, Node.js
+    - Created a proxy server to access third party API using Node.js and Express.js access it from SPA.
+    - Implemented event logs using Adobe Click Stream and Google Analytics to study User trend when they navigate through site. Help to improve SEO by changing implementation in SPA with Google Lighthouse points.
+    - Build rich prototypes / wireframes in Figma, validate with PO and converted them to React pages.
+    - Implemented custom validations controls for various forms with the help of JavaScript validation controls and Formik forms.
+
+- layout: left
   company: Mindtree Limited
   link: https://www.mindtree.com/
   job_title: Technical Lead
