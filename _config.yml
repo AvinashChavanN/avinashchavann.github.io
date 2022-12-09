@@ -18,9 +18,9 @@ linkedin_username: avinash-chavan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-A creative and passionate modern web development professional with around 10 years of experience using Javascript and multiple libraries such as Reactjs, Nextjs, Vuejs, Nuxtjs along with HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages. and Nodejs. 
+  -	A creative and passionate modern web development professional with around 10 years of experience using Javascript and multiple libraries such as Reactjs, Nextjs, Vuejs, Nuxtjs along with HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages. and Nodejs. 
 
-Full stack development of web applications in e-commerce and creative cloud engineer.
+  -	Full stack development of web applications in e-commerce and creative cloud engineer.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
