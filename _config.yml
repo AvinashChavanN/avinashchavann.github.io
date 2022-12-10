@@ -5,7 +5,7 @@ favicon: favicon.ico.png
 
 # Personal info
 name: Avinash Chavan
-title: Javascript Enthusiast
+title: Javascript Enthusiast and Modern Web Application Developer
 email: chvn.avi@gmail.com
 phone: +1 (682) 347 6514
 website: https://github.com/avinashchavann
@@ -18,20 +18,19 @@ linkedin_username: avinash-chavan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  -	A creative and passionate modern web development professional with around 10 years of experience using Javascript and multiple libraries such as Reactjs, Nextjs, Vuejs, Nuxtjs along with HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages. and Nodejs. 
+  -	A creative and passionate modern web development professional with around 10 years of experience using <mark>Javascript</mark> and multiple libraries such as <mark>Reactjs, Nextjs, Vuejs</mark> along with HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages. and <mark>Nodejs</mark>. 
 
   -	Full stack development of web applications in e-commerce and creative cloud engineer.
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  -	<mark>Front-End:</mark> NextJS, VueJS, HTML5, CSS3, JavaScript, TypeScript, Angular, React, Redux, Flux, NodeJS, jQuery, AJAX, SASS, SCSS, LESS
-  -	<mark>Back-End:</mark> ASP.NET C#, MVC, RESTful API, Authenticate.Net 
-  -	<mark>Build Deploy and Version Control Tools:</mark> Git, Jenkins, Sourcetree
-  -	<mark>Programming Skills:</mark> Java, C#
+  -	<mark>Front-End:</mark> NextJS, React, Redux, VueJS, HTML5, CSS3, JavaScript, TypeScript, SASS, SCSS, Tailwind
+  -	<mark>Back-End:</mark> Node, Express
+  -	<mark>Build Deploy and Version Control Tools:</mark> Git, Azure DevOps Jenkins, Sourcetree, BitBucket
   -	<mark>SQL Database:</mark> Oracle, MySQL, Postgres SQL 
   -	<mark>NoSQL:</mark> mongoDB, Neo4j
-  -	<mark>Cloud Platforms:</mark> AWS, GCP
+  -	<mark>Cloud Platforms:</mark> Azure, AWS
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
